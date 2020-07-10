@@ -2,6 +2,8 @@
 
 Desenvolvedor Front-end apaixonado por JavaScript e design.
 
+HTML5 | CSS3 | SASS | PHP | Boostrap 4 | ES6 | JQuery 
+
 
 ## Redes sociais:
 👉 [Portfólio](https://caiohtml.com)  <br>
