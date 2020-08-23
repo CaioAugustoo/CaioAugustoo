@@ -2,7 +2,7 @@
 
 Desenvolvedor Front-end apaixonado por JavaScript e design.
 
-HTML5 | CSS3 | SASS | ES6 | JQuery | PHP | Boostrap 4 
+HTML5 | CSS3 | SASS | ES6 | ReactJS | JQuery | PHP | Boostrap 4 
 
 
 ## Onde me encontrar:
