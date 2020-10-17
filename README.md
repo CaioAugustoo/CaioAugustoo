@@ -1,6 +1,8 @@
 <h1 align="center">Eaí!✌🏼 Eu sou o Caio.</h1>
 <h3 align="center">Desenvolvedor front-end entusiasta apaixonado por novas tecnologias 💜🚀</h3>
 
+- 🔭 Atualmente trabalhando no meu blog: [https://caio-blog.netlify.app](https://caio-blog.netlify.app)
+
 - 🌱 Atualmente estudando: **Typescript e NextJS**
 
 - 👨‍💻 Portfólio: [https://caiohtml.com](https://caiohtml.com)
