@@ -11,7 +11,6 @@
 
 - 📫 Contato: **caioamfr@gmail.com**
 
-- ⚡ Curiosidade **Eu já fui atropelado**
 
 <p align="center">
 <a href="https://codepen.io/https://codepen.io/caioaugusto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/caioaugusto" height="30" width="40" /></a>
